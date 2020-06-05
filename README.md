@@ -6,7 +6,7 @@ With this weather app, users can search for current weather information of citie
 
 ## App UI 
 
-![](public/images/weather app page 1.PNG)
+![](public/images/weather%20app%20page%201.PNG)
 
 
 ## Check This app Live 
